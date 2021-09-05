@@ -1,1 +1,2 @@
-This is eriks first git project!
+This is eriks first git project! 
+Yes it is!
